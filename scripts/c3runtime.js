@@ -4413,7 +4413,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Touch.Exps.Y,
 		C3.Plugins.Touch.Cnds.OnTapGesture,
 		C3.Plugins.Sprite.Acts.Spawn,
-		C3.Plugins.Touch.Cnds.OnTapGestureObject,
+		C3.Plugins.Touch.Cnds.IsTouchingObject,
 		C3.Behaviors.EightDir.Acts.SimulateControl
 	];
 };
